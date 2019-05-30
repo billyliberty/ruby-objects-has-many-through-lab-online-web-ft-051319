@@ -8,5 +8,5 @@ class Artist
   end
 
   @@all = []
-  
+
 end
